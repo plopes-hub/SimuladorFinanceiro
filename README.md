@@ -9,17 +9,17 @@ Mediante ao tipo de investidor (conservador,moderado ou agressivo)
 > Ferramenta : Microsoft Excel
 
 ## 🧐 Processo de Criação
-Usei o Excel para construir esse simulador.
-> Formula Procx
-> Nomeando Intervalos
-> Validação de Dados
-> Criando Uniformidade Visual
+> Esse simulador foi construido utilizando somente a ferramento Excel.
+* Formula Procx
+* Nomeando Intervalos
+* Validação de Dados
+* Criando Uniformidade Visual
 
 ## 🚀 Resultados
-O simulador de investimento podera ajudar onde é mais vantajoso investir seu dinheiro, trazendo diversos cenarios, conforme prazo do investimento
+O simulador de investimento podera ajudar mostrar onde é mais vantajoso investir seu dinheiro, trazendo diversos cenarios, conforme prazo do investimento
 e valor investido.
 
 ## 💭 Reflexão (Opcional)
-Esse simulador parece simples, mas traz um execelente visao de como investir seu dinheiro.
+Esse simulador parece simples, mas traz um excelente visao de como investir seu dinheiro.
 
 
