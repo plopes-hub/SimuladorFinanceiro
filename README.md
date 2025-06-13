@@ -1,8 +1,8 @@
 # SimuladorFinanceiro
 Simulador Para Investimentos
 ## 📒 Descrição
-Simulador de Investimento em açoes Fundo de Investimento Imobilidarios.
-Esse simulador permite calcular seus invesimento a curto e a longo prazo, além de sugerir os tipos de fundos a serem investimento.
+Simulador de Investimento em açoes Fundo de Investimento Imobiliarios.
+Esse simulador permite calcular seus invesimento a curto e a longo prazo, além de sugerir os tipos de fundos a serem investidos.
 Mediante ao tipo de investidor (conservador,moderado ou agressivo)
 
 ## 🤖 Tecnologias Utilizadas
